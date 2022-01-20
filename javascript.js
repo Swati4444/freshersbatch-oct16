@@ -1,0 +1,1 @@
+Created JavaScript assignments inside ‘js-Assignments’ folder.
